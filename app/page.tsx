@@ -21,7 +21,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>BookEasy - Find Your Perfect Hotel</title>
+        <title>BookEasy - Find Your Perfect Hotel! </title>
         <meta name="description" content="Book hotels effortlessly with BookEasy" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
