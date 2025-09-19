@@ -26,7 +26,6 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      {/* Hero Section */}
       <section className="relative min-h-96 bg-cover bg-center flex items-center justify-center " style={{ backgroundImage: "url('https://source.unsplash.com/featured/?hotel,luxury')" }}>
         <div className="absolute inset-0 bg-cyan-900 flex flex-col items-center justify-center text-white px-4">
           <h1 className="text-4xl md:text-6xl font-extrabold mb-4 text-center drop-shadow-lg">Discover Your Perfect Stay</h1>
