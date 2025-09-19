@@ -87,7 +87,7 @@ export default function Home() {
 
       <section className="py-16 bg-gradient-to-b from-gray-50 to-gray-200">
         <div className="container mx-auto px-4">
-          <h2 className="text-3xl md:text-4xl font-bold text-center mb-12 text-gray-800">Popular Destinations</h2>
+          <h2 className="text-3xl md:text-4xl font-bold text-center mb-12 text-gray-800">Popular Destinations Just for you !</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-10">
             {destinations.map((dest) => (
               <div key={dest.name} className="bg-white rounded-xl shadow-xl overflow-hidden hover:scale-105 transition-transform duration-200">
